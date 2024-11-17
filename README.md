@@ -9,8 +9,6 @@ Cadastro de usuários
 CRUD
 
 Instalação e Configuração
-Pré-requisitos
-Node.js v16+, JavaScript
 
 Passos
 Clone o repositório:
